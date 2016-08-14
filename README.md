@@ -1,1 +1,1 @@
-# This is set up for the Practical Machine Learning course project. If you can't see the codes and listing of the two intended files .Rmd and .html, please click on "View Code"
+# This is set up by Aron Y Joon for "Practical Machine Learning" course project. If you do not see the codes and listing of the two intended files Practical_Machine_Learning_Writeup.Rmd and Practical_Machine_Learning_Writeup.html, please click on "View Code"
